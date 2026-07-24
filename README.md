@@ -426,17 +426,6 @@ Special thanks to the **OpenCV** community for providing the Haar Cascade classi
 
 ---
 
-# Contributors
-
-**Srihari Kothandapani**
-
-Artificial Intelligence & Data Science  
-Shiv Nadar University Chennai
-
-GitHub: https://github.com/VishwaKrithik
-
----
-
 # Disclaimer
 
 This project is intended **solely for educational and research purposes**.
